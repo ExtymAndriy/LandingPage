@@ -1,110 +1,103 @@
 🚴 Bike Landing Page
-Ласкаво просимо до проєкту Bike Landing Page — сучасної односторінкової веб-сторінки для магазину велосипедів.
-Цей лендінг створений для презентації асортименту велосипедів, демонстрації переваг бренду та заохочення користувачів до покупки або перегляду товарів.
-Сайт поєднує в собі стильний дизайн із Figma та сучасні веб-технології, щоб забезпечити зручний, швидкий і приємний користувацький досвід.
+Welcome to the Bike Landing Page project — a modern one-page website for a bicycle store.
+This landing page is designed to showcase the range of bicycles, highlight brand advantages, and encourage users to purchase or browse products.
+The site combines stylish Figma design with modern web technologies to deliver a convenient, fast, and enjoyable user experience.
 
 
 🔍 Preview
-Демо-версія доступна за посиланням:
+Demo version available here:
 👉 https://extymandriy.github.io/LandingPage/
 
 
-🎨 Дизайн
-Макет сторінки розроблений у Figma:
+🎨 Design
+Page layout created in Figma:
 👉 https://www.figma.com/design/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=41317-310
 
 
-📌 Основні характеристики
-    Адаптивний дизайн
-      Сторінка коректно відображається на різних пристроях: мобільних телефонах, планшетах і десктопах.
-
-    Каталог велосипедів
-      Включає картки товарів із зображеннями, описом і кнопками взаємодії.
-
-    Інтерактивні елементи
-      Hover-ефекти, кнопки та плавні переходи створюють сучасний UX.
-
-    Швидке завантаження
-      Оптимізована структура та використання сучасних інструментів забезпечують високу продуктивність.
-
-    Чітка UX/UI структура
-      Логічне розташування блоків допомагає користувачу легко орієнтуватися на сторінці.
+📌 Key Features
+    Responsive design
+        Works correctly across devices: mobile phones, tablets, and desktops.
+    Bicycle catalog
+        Includes product cards with images, descriptions, and interactive buttons.
+    Interactive elements
+        Hover effects, buttons, and smooth transitions create a modern UX.
+    Fast loading
+        Optimized structure and modern tools ensure high performance.
+    Clear UX/UI structure
+        Logical block arrangement helps users easily navigate the page.
 
 
-⚡ Виклики під час розробки
-Оскільки проєкт передбачає створення повноцінного адаптивного лендінгу, під час розробки виникли певні труднощі.
-🔧 Ключові виклики:
-
-Адаптивність
-Забезпечення правильного відображення контенту на різних розмірах екранів вимагало точного налаштування Flexbox і Grid.
-
-Реалізація каталогу
-Побудова зручних карток товарів із однаковою структурою та адаптивною поведінкою була важливим етапом.
-
-Інтерактивність
-Додавання hover-ефектів і плавних анімацій потребувало акуратного використання JavaScript та CSS.
-
-Оптимізація продуктивності
-Було важливо зробити сайт швидким, мінімізувавши зайві стилі та скрипти.
-
-Кросбраузерність
-Тестування в різних браузерах допомогло забезпечити однаковий вигляд і функціональність.
+⚡ Development Challenges
+Since the project required building a fully responsive landing page, several difficulties arose.
 
 
-🛠 Технічні вимоги
-Для запуску проєкту вам знадобиться:
+🔧 Key challenges:
+  Responsiveness
+      Ensuring proper display across screen sizes required precise Flexbox and Grid setup.
+  Catalog implementation
+      Building consistent product cards with adaptive behavior was a crucial step.
+  Interactivity
+      Adding hover effects and smooth animations required careful use of JavaScript and CSS.
+  Performance optimization
+      Important to keep the site fast by minimizing unnecessary styles and scripts.
+  Cross-browser compatibility
+      Testing across browsers ensured consistent appearance and functionality.
 
-Node.js (версія 14.x або новіша)
-NPM (версія 6.x або новіша)
+
+🛠 Technical Requirements
+To run the project you’ll need:
+Node.js (v14.x or newer)
+NPM (v6.x or newer)
 
 
-🚀 Встановлення та запуск
-Щоб запустити проєкт локально, виконайте наступні кроки:
-# Клонування репозиторію
+🚀 Installation & Launch
+To run the project locally, follow these steps:
+
+bash
+# Clone the repository
 git clone https://github.com/ExtymAndriy/LandingPage.git
 
-# Перехід у папку проєкту
+# Navigate to project folder
 cd LandingPage
 
-# Встановлення залежностей
+# Install dependencies
 npm install
 
-# Запуск проєкту
+# Start the project
 npm start
-
-Після цього сайт буде доступний за адресою:
+The site will then be available at:
 👉 http://localhost:8080
 
 
-🧩 Використання
-Цей проєкт можна використовувати для:
-    демонстрації фронтенд-навичок
-    прикладу адаптивного лендінгу
-    бази для створення інтернет-магазину
-    навчання роботі з компонентами UI
+🧩 Usage
+This project can be used for:
+Showcasing frontend skills
+Example of a responsive landing page
+Base for building an online store
+Learning UI component development
 
 
-🛠 Використані технології
-    HTML5 — структура сторінки
-    CSS3 (Flexbox, Grid) — стилізація та адаптивність
-    SCSS — покращена організація стилів
-    JavaScript (ES6+) — інтерактивність
-    Node.js — середовище виконання
-    NPM — керування пакетами
-    Git — контроль версій
-    GitHub — хостинг репозиторію
+🛠 Technologies Used
+HTML5 — page structure
+CSS3 (Flexbox, Grid) — styling & responsiveness
+SCSS — improved style organization
+JavaScript (ES6+) — interactivity
+Node.js — runtime environment
+NPM — package management
+Git — version control
+GitHub — repository hosting
 
 
-📐 Специфікації дизайну
-    Десктоп: 1280px
-    Планшет: ~768px
-    Мобільні: від 320px
+📐 Design Specifications
+Desktop: 1280px
+Tablet: ~768px
+Mobile: from 320px
 
 
-✅ README checklist
-  ✔ README не містить специфічних інструкцій (наприклад, для курсів)
-  ✔ Чіткий та зрозумілий опис проєкту
-  ✔ Робоче посилання на демо
-  ✔ Коректно перелічені технології
-  ✔ Простий і зрозумілий процес запуску
-  ✔ Чиста та структурована репозиторна структура
+✅ README Checklist
+✔ No course-specific instructions
+✔ Clear and understandable project description
+✔ Working demo link
+✔ Correctly listed technologies
+✔ Simple and clear launch process
+✔ Clean and structured repository
